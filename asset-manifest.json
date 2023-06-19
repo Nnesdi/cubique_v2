@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/cubique/static/css/main.96396765.css",
-    "main.js": "/cubique/static/js/main.9ac850ed.js",
-    "static/js/787.edadcea1.chunk.js": "/cubique/static/js/787.edadcea1.chunk.js",
-    "static/media/logo.png": "/cubique/static/media/logo.32d7423078884ad52279.png",
-    "static/media/new-watches-2023-explorer-40-watch-presentaiton-autoplay.webm": "/cubique/static/media/new-watches-2023-explorer-40-watch-presentaiton-autoplay.932bd081dd620c762177.webm",
-    "static/media/new-watches-2023-explorer-40.avif": "/cubique/static/media/new-watches-2023-explorer-40.7886fe824db116decf88.avif",
-    "static/media/HelveticaNowText-Light.otf": "/cubique/static/media/HelveticaNowText-Light.db99f6b8a6887e19297b.otf",
-    "static/media/HelveticaNowText-Bold.otf": "/cubique/static/media/HelveticaNowText-Bold.fd12caa9a3226387d127.otf",
-    "static/media/HelveticaNowText-Regular.otf": "/cubique/static/media/HelveticaNowText-Regular.3561cdb01d0cfb3cf0f9.otf",
-    "static/media/new-watches-2023-explorer-40-cover.avif": "/cubique/static/media/new-watches-2023-explorer-40-cover.62311b113d6b76c9f3c1.avif",
-    "static/media/RolexFont-Regular-WebS.woff2": "/cubique/static/media/RolexFont-Regular-WebS.1042fbdf6c113e6dac21.woff2",
-    "index.html": "/cubique/index.html",
-    "main.96396765.css.map": "/cubique/static/css/main.96396765.css.map",
-    "main.9ac850ed.js.map": "/cubique/static/js/main.9ac850ed.js.map",
-    "787.edadcea1.chunk.js.map": "/cubique/static/js/787.edadcea1.chunk.js.map"
+    "main.css": "/static/css/main.e6b60d6d.css",
+    "main.js": "/static/js/main.d53bda5a.js",
+    "static/js/787.edadcea1.chunk.js": "/static/js/787.edadcea1.chunk.js",
+    "static/media/logo.png": "/static/media/logo.32d7423078884ad52279.png",
+    "static/media/new-watches-2023-explorer-40-watch-presentaiton-autoplay.webm": "/static/media/new-watches-2023-explorer-40-watch-presentaiton-autoplay.932bd081dd620c762177.webm",
+    "static/media/new-watches-2023-explorer-40.avif": "/static/media/new-watches-2023-explorer-40.7886fe824db116decf88.avif",
+    "static/media/HelveticaNowText-Light.otf": "/static/media/HelveticaNowText-Light.db99f6b8a6887e19297b.otf",
+    "static/media/HelveticaNowText-Bold.otf": "/static/media/HelveticaNowText-Bold.fd12caa9a3226387d127.otf",
+    "static/media/HelveticaNowText-Regular.otf": "/static/media/HelveticaNowText-Regular.3561cdb01d0cfb3cf0f9.otf",
+    "static/media/new-watches-2023-explorer-40-cover.avif": "/static/media/new-watches-2023-explorer-40-cover.62311b113d6b76c9f3c1.avif",
+    "static/media/RolexFont-Regular-WebS.woff2": "/static/media/RolexFont-Regular-WebS.1042fbdf6c113e6dac21.woff2",
+    "index.html": "/index.html",
+    "main.e6b60d6d.css.map": "/static/css/main.e6b60d6d.css.map",
+    "main.d53bda5a.js.map": "/static/js/main.d53bda5a.js.map",
+    "787.edadcea1.chunk.js.map": "/static/js/787.edadcea1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96396765.css",
-    "static/js/main.9ac850ed.js"
+    "static/css/main.e6b60d6d.css",
+    "static/js/main.d53bda5a.js"
   ]
 }
