@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cubique_v2/static/css/main.2711433e.css",
+    "main.css": "/cubique_v2/static/css/main.82267561.css",
     "main.js": "/cubique_v2/static/js/main.5d8f7620.js",
     "static/js/787.edadcea1.chunk.js": "/cubique_v2/static/js/787.edadcea1.chunk.js",
     "static/media/logo.png": "/cubique_v2/static/media/logo.32d7423078884ad52279.png",
@@ -12,12 +12,12 @@
     "static/media/new-watches-2023-explorer-40-cover.avif": "/cubique_v2/static/media/new-watches-2023-explorer-40-cover.62311b113d6b76c9f3c1.avif",
     "static/media/RolexFont-Regular-WebS.woff2": "/cubique_v2/static/media/RolexFont-Regular-WebS.1042fbdf6c113e6dac21.woff2",
     "index.html": "/cubique_v2/index.html",
-    "main.2711433e.css.map": "/cubique_v2/static/css/main.2711433e.css.map",
+    "main.82267561.css.map": "/cubique_v2/static/css/main.82267561.css.map",
     "main.5d8f7620.js.map": "/cubique_v2/static/js/main.5d8f7620.js.map",
     "787.edadcea1.chunk.js.map": "/cubique_v2/static/js/787.edadcea1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2711433e.css",
+    "static/css/main.82267561.css",
     "static/js/main.5d8f7620.js"
   ]
 }
