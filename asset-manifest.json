@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cubique_v2/static/css/main.44c95c82.css",
-    "main.js": "/cubique_v2/static/js/main.1b00a19c.js",
+    "main.css": "/cubique_v2/static/css/main.7db56bfb.css",
+    "main.js": "/cubique_v2/static/js/main.8e61e6c8.js",
     "static/js/787.edadcea1.chunk.js": "/cubique_v2/static/js/787.edadcea1.chunk.js",
     "static/media/logo.png": "/cubique_v2/static/media/logo.32d7423078884ad52279.png",
     "static/media/snowlandscape.png": "/cubique_v2/static/media/snowlandscape.5c89c6531fe371f49d62.png",
@@ -13,12 +13,12 @@
     "static/media/HelveticaNowText-Regular.otf": "/cubique_v2/static/media/HelveticaNowText-Regular.3561cdb01d0cfb3cf0f9.otf",
     "static/media/RolexFont-Regular-WebS.woff2": "/cubique_v2/static/media/RolexFont-Regular-WebS.1042fbdf6c113e6dac21.woff2",
     "index.html": "/cubique_v2/index.html",
-    "main.44c95c82.css.map": "/cubique_v2/static/css/main.44c95c82.css.map",
-    "main.1b00a19c.js.map": "/cubique_v2/static/js/main.1b00a19c.js.map",
+    "main.7db56bfb.css.map": "/cubique_v2/static/css/main.7db56bfb.css.map",
+    "main.8e61e6c8.js.map": "/cubique_v2/static/js/main.8e61e6c8.js.map",
     "787.edadcea1.chunk.js.map": "/cubique_v2/static/js/787.edadcea1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44c95c82.css",
-    "static/js/main.1b00a19c.js"
+    "static/css/main.7db56bfb.css",
+    "static/js/main.8e61e6c8.js"
   ]
 }
