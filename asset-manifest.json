@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/cubique_v2/static/css/main.7db56bfb.css",
-    "main.js": "/cubique_v2/static/js/main.8e61e6c8.js",
+    "main.js": "/cubique_v2/static/js/main.0b11fe4a.js",
     "static/js/787.edadcea1.chunk.js": "/cubique_v2/static/js/787.edadcea1.chunk.js",
     "static/media/logo.png": "/cubique_v2/static/media/logo.32d7423078884ad52279.png",
     "static/media/snowlandscape.png": "/cubique_v2/static/media/snowlandscape.5c89c6531fe371f49d62.png",
     "static/media/hochkant.png": "/cubique_v2/static/media/hochkant.3956e26df1605ea69896.png",
     "static/media/new-watches-2023-explorer-40-watch-presentaiton-autoplay.webm": "/cubique_v2/static/media/new-watches-2023-explorer-40-watch-presentaiton-autoplay.932bd081dd620c762177.webm",
+    "static/media/cube_animation.webm": "/cubique_v2/static/media/cube_animation.20118f9970ca5a65a0a7.webm",
     "static/media/mountains.jpg": "/cubique_v2/static/media/mountains.46312641e84e5e743777.jpg",
     "static/media/HelveticaNowText-Light.otf": "/cubique_v2/static/media/HelveticaNowText-Light.db99f6b8a6887e19297b.otf",
     "static/media/HelveticaNowText-Bold.otf": "/cubique_v2/static/media/HelveticaNowText-Bold.fd12caa9a3226387d127.otf",
@@ -14,11 +15,11 @@
     "static/media/RolexFont-Regular-WebS.woff2": "/cubique_v2/static/media/RolexFont-Regular-WebS.1042fbdf6c113e6dac21.woff2",
     "index.html": "/cubique_v2/index.html",
     "main.7db56bfb.css.map": "/cubique_v2/static/css/main.7db56bfb.css.map",
-    "main.8e61e6c8.js.map": "/cubique_v2/static/js/main.8e61e6c8.js.map",
+    "main.0b11fe4a.js.map": "/cubique_v2/static/js/main.0b11fe4a.js.map",
     "787.edadcea1.chunk.js.map": "/cubique_v2/static/js/787.edadcea1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7db56bfb.css",
-    "static/js/main.8e61e6c8.js"
+    "static/js/main.0b11fe4a.js"
   ]
 }
