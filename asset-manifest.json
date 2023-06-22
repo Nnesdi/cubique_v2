@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cubique_v2/static/css/main.7db56bfb.css",
-    "main.js": "/cubique_v2/static/js/main.0b11fe4a.js",
+    "main.js": "/cubique_v2/static/js/main.a2fac46b.js",
     "static/js/787.edadcea1.chunk.js": "/cubique_v2/static/js/787.edadcea1.chunk.js",
     "static/media/logo.png": "/cubique_v2/static/media/logo.32d7423078884ad52279.png",
     "static/media/snowlandscape.png": "/cubique_v2/static/media/snowlandscape.5c89c6531fe371f49d62.png",
@@ -15,11 +15,11 @@
     "static/media/RolexFont-Regular-WebS.woff2": "/cubique_v2/static/media/RolexFont-Regular-WebS.1042fbdf6c113e6dac21.woff2",
     "index.html": "/cubique_v2/index.html",
     "main.7db56bfb.css.map": "/cubique_v2/static/css/main.7db56bfb.css.map",
-    "main.0b11fe4a.js.map": "/cubique_v2/static/js/main.0b11fe4a.js.map",
+    "main.a2fac46b.js.map": "/cubique_v2/static/js/main.a2fac46b.js.map",
     "787.edadcea1.chunk.js.map": "/cubique_v2/static/js/787.edadcea1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7db56bfb.css",
-    "static/js/main.0b11fe4a.js"
+    "static/js/main.a2fac46b.js"
   ]
 }
